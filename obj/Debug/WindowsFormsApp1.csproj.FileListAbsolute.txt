@@ -1,0 +1,315 @@
+C:\Users\user\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\22833\Desktop\ProjrctV2\SHozProject\SHozProject\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\22833\Desktop\ProjrctV2\SHozProject\SHozProject\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\22833\Desktop\ProjrctV2\SHozProject\SHozProject\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\22833\Desktop\ProjrctV2\SHozProject\SHozProject\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\22833\Desktop\ProjrctV2\SHozProject\SHozProject\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\22833\Desktop\ProjrctV2\SHozProject\SHozProject\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\22833\Desktop\ProjrctV2\SHozProject\SHozProject\obj\Debug\WindowsFormsApp1.exe
+C:\Users\22833\Desktop\ProjrctV2\SHozProject\SHozProject\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\22833\Desktop\ProjrctV2\SHozProject\SHozProject\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\22833\Desktop\ProjrctV2\SHozProject\SHozProject\bin\Debug\WindowsFormsApp1.exe
+C:\Users\22833\Desktop\ProjrctV2\SHozProject\SHozProject\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\SHozProject\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\SHozProject\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\SHozProject\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\SHozProject\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SHozProject\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Desktop\SHozProject\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\SHozProject\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SHozProject\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SHozProject\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\SHozProject\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\SHozProject\obj\Debug\WindowsFormsApp1.Add.resources
+C:\Users\user\Desktop\SHozProject\obj\Debug\WindowsFormsApp1.Sort.resources
+C:\Users\user\Desktop\SHozProject\obj\Debug\WindowsFormsApp1.Change.resources
+C:\Users\user\Desktop\SHozProject\obj\Debug\WindowsFormsApp1.Delete.resources
+C:\Users\user\Desktop\SHozProject\obj\Debug\WindowsFormsApp1.Changer.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.exe
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Add.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Change.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Changer.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Delete.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Sort.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.exe
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\libSkiaSharp.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\libSkiaSharp.dylib
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\SkiaSharp.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\Spire.XLS.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Buffers.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Memory.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Security.AccessControl.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Security.Permissions.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\SkiaSharp.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\Spire.XLS.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Buffers.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Memory.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\libSkiaSharp.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\libSkiaSharp.dylib
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\SkiaSharp.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\Spire.XLS.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Security.Permissions.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\SkiaSharp.xml
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\Spire.XLS.xml
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\HozTorg\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Add.resources
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Change.resources
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Changer.resources
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Delete.resources
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Sort.resources
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\libSkiaSharp.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\libSkiaSharp.dylib
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.exe
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\SkiaSharp.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\Spire.XLS.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Buffers.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Memory.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.AccessControl.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Permissions.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\SkiaSharp.xml
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\Spire.XLS.xml
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Buffers.xml
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Memory.xml
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Add.resources
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Change.resources
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Changer.resources
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Delete.resources
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Sort.resources
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.exe
+C:\Users\22833\Downloads\Telegram Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\libSkiaSharp.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\libSkiaSharp.dylib
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\SkiaSharp.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\Spire.XLS.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Permissions.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\SkiaSharp.xml
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\Spire.XLS.xml
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Add.resources
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Change.resources
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Changer.resources
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Delete.resources
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Sort.resources
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Music.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\libSkiaSharp.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\libSkiaSharp.dylib
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.exe
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\SkiaSharp.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\Spire.XLS.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Buffers.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Memory.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.AccessControl.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Permissions.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\SkiaSharp.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\Spire.XLS.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Buffers.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Memory.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Add.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Change.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Changer.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Delete.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Music.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Sort.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.exe
+C:\Users\22833\Desktop\Оп проэкт\HozTorg\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\libSkiaSharp.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\libSkiaSharp.dylib
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.exe
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\SkiaSharp.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\Spire.XLS.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Buffers.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Memory.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.AccessControl.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Permissions.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\SkiaSharp.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\Spire.XLS.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Buffers.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Memory.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Add.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Change.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Changer.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Delete.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Music.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.Sort.resources
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.exe
+C:\Users\22833\Desktop\Оп проэкт\HozTorgMain\HozTorg (2)\HozTorg\HozTorg\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\HozTorg\bin\Debug\libSkiaSharp.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\libSkiaSharp.dylib
+C:\Users\user\Desktop\HozTorg\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\HozTorg\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\HozTorg\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\HozTorg\bin\Debug\SkiaSharp.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\Spire.XLS.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Security.Permissions.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\HozTorg\bin\Debug\SkiaSharp.xml
+C:\Users\user\Desktop\HozTorg\bin\Debug\Spire.XLS.xml
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\HozTorg\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.Add.resources
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.Change.resources
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.Changer.resources
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.Delete.resources
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.Music.resources
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.Report.resources
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.Sort.resources
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\HozTorg\obj\Debug\WindowsFormsApp1.pdb
