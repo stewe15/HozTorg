@@ -17,6 +17,7 @@ namespace WindowsFormsApp1
 {
     public partial class Report : Form
     {
+        //конструктор класса
         public Report()
         {
             InitializeComponent();
@@ -42,7 +43,7 @@ namespace WindowsFormsApp1
         {
 
         }
-
+        //создание отчёта
         private void ReportButton_Click(object sender, EventArgs e)
         {
             Workbook workbook = new Workbook();
